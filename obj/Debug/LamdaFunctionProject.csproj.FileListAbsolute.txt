@@ -1,0 +1,8 @@
+C:\Users\Rushi\source\repos\LamdaFunctionProject\bin\Debug\LamdaFunctionProject.exe.config
+C:\Users\Rushi\source\repos\LamdaFunctionProject\bin\Debug\LamdaFunctionProject.exe
+C:\Users\Rushi\source\repos\LamdaFunctionProject\bin\Debug\LamdaFunctionProject.pdb
+C:\Users\Rushi\source\repos\LamdaFunctionProject\obj\Debug\LamdaFunctionProject.csproj.AssemblyReference.cache
+C:\Users\Rushi\source\repos\LamdaFunctionProject\obj\Debug\LamdaFunctionProject.csproj.SuggestedBindingRedirects.cache
+C:\Users\Rushi\source\repos\LamdaFunctionProject\obj\Debug\LamdaFunctionProject.csproj.CoreCompileInputs.cache
+C:\Users\Rushi\source\repos\LamdaFunctionProject\obj\Debug\LamdaFunctionProject.exe
+C:\Users\Rushi\source\repos\LamdaFunctionProject\obj\Debug\LamdaFunctionProject.pdb
